@@ -1,4 +1,6 @@
 # Java Static Members of a Class
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fjava-static-members-lesson&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
+
 At first, I was just ignoring the importance of a variable or a method being static.
 And my understanding at first was quite obscure but then I realized how important
 they are in computer programming.
