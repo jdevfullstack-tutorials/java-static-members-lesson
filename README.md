@@ -81,7 +81,7 @@ class MainMethod {
 }
 ```
 
-the result will be:
+the result is:
 
 ```
 > run MainMethod
